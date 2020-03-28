@@ -834,6 +834,8 @@ a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
+
+  height: 500px;
 }
 
 .work-box:hover img {
@@ -843,6 +845,8 @@ a:hover {
 .work-img {
   display: block;
   overflow: hidden;
+
+  height: 350px;
 }
 
 .work-img img {

@@ -520,7 +520,7 @@
                             content.css('margin-left', diffX);
                         }
                     }
-                }
+                } 
 
                 function onUpEvent(e){
                     if (startouch === true) {
